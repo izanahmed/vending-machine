@@ -1,2 +1,3 @@
-# vending-machine
+# Vending Machine
+
 A vending machine simulation
