@@ -1,0 +1,418 @@
+|-----Coke------|
+|  Price  $3    |
+|  Stock   3    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: A
+Sorry nothing in here!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   3    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: P
+Sorry nothing to pick! Buy a coke!
+
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   3    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: B
+Balance is 3
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   3    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: V
+Put exactly one dollar and press enter: 1
+Amount entered till now = 1
+Status: 1
+Amount entered till now = 2
+Status: 1
+Amount entered till now = 3
+Status: You have successfully bought 1 can of Coke!
+
+Check the Soda Receiver!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   2    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: A
+You have a coke, you can pick up!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   2    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: P
+Successfully Picked!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   2    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: B
+Balance is 2
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   2    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: has
+Wrong input! Please try again!
+
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   2    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: 71h
+Wrong input! Please try again!
+
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   2    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: V
+Put exactly one dollar and press enter: 1
+Amount entered till now = 1
+Status: gda
+Sorry you have not followed the instructions please enter correct value after pressing V again!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   2    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: V
+Put exactly one dollar and press enter: 1
+Amount entered till now = 2
+Status: 721
+Sorry you have not followed the instructions please enter correct value after pressing V again!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   2    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: V
+Put exactly one dollar and press enter: 1
+Amount entered till now = 3
+Status: You have successfully bought 1 can of Coke!
+
+Check the Soda Receiver!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   1    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: B
+Balance is 1
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   1    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: A
+You have a coke, you can pick up!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   1    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: P
+Successfully Picked!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   1    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: V
+Put exactly one dollar and press enter: 1
+Amount entered till now = 1
+Status: 1
+Amount entered till now = 2
+Status: 1
+Amount entered till now = 3
+Status: You have successfully bought 1 can of Coke!
+
+Check the Soda Receiver!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   0    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: B
+Balance is 0
+
+Sorry! No more Coke available! Please come back later!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   0    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: P
+Successfully Picked!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   0    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: A
+Sorry nothing in here!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   0    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: P
+Sorry nothing to pick! Buy a coke!
+
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   0    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: V
+We are no longer taking money! This machine is empty!
+
+/*-----------After restarting again----------------*/
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   3    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: A
+Sorry nothing in here!
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   3    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: P
+Sorry nothing to pick! Buy a coke!
+
+
+|-----Coke------|
+|  Price  $3    |
+|  Stock   3    |
+|---------------|
+
+Welcome to the Coke Vending Machine!
+
+To SEE balance press 'B'
+To BUY press 'V'
+To CHECK SODA RECEIVER press 'A'
+To PICK UP SODA press 'P'
+To EXIT press 'X'
+
+Option: X
+Thank you for using this machine! Have a nice day!
